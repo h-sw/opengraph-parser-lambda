@@ -1,4 +1,4 @@
-# OpenGraph-Lambda
+# OpenGraphParser-Lambda
 
 
 OpenGraph Protocol을 호출해 OG 값을 반환하는 Serverless기반 프로젝트입니다.
