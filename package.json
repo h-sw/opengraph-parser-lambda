@@ -1,0 +1,15 @@
+{
+  "name": "opengraphparser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "make": "zip -r lambdaFunc.zip ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "open-graph-scraper": "^4.8.1"
+  }
+}
